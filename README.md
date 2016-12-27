@@ -37,6 +37,9 @@ Special Thanks
 - [swtor conquest](https://www.reddit.com/user/swtor_conquest) for support on his incredible APIs.
 - Eymas & Hess for trying really hard to break the bot for testing purposes.
 
+## Official Discord Server for SwtorBot
+[Join](https://discord.gg/nNCPzj6) - I will provide support, update details and status changes here.
+
 ## Examples
 _All examples are from actual conversations with the bot. They are not simulated or theoretical mumbo jumbo to make it all shiny and pretty. Though some responses might vary due to improvements in wordiness and grammar are made._ 
 
