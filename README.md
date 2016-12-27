@@ -108,6 +108,19 @@ Bot: You will need: 2 Hemostatic Gel 1 Autoimmune Regulator 2 Anodyne Cell Graft
 >You: What's the vendor price for Outlander Boltblaster's Belt MK-6?  
 Bot: You should be able to sell Outlander Boltblaster's Belt MK-6 for 1,550 credits to a vendor.
 
+### Event Subscriptions (DvL Alignment)
+This feature is highly experimental. Use at own risk of insanity.  
+
+_Set an alert for The Ebon Hawk_
+>You: Alert me when The Ebon Hawk is dark 4.
+
+This way you can now quickly jump on to get those Dark Side Tokens nobody ever gets because, the light side always wins _#Rigged_. Private conversations for Discord supporting this will be avilable shortly. This feature is only available on the Telegram platform today.
+
+_Cancel the alert_
+>You: Cancel my alignment alerts
+
+**Note**: As of right now you can only have one alert active (per platform).
+
 #### Important Note  
 
 As of this publication the bot is not yet able to process conversational follow ups for the date, and it rarely also thinks it serves more than one game, and occasionally asks you to specify a game. If this happens simply type "swtor" or "star wars".  This will be fixed shortly, another pinky promise.
@@ -138,12 +151,7 @@ Worry not! You can message the bot directly `SWTOR-BOT#8698` at any time even if
 
 ## What's next?
 
-The next on the to-do li... well I lost the list but it's event subscription so you can do something like this:
->You: Alert me when The Ebon Hawk is dark 4.
-
-This way you can now quickly jump on to get those Dark Side Tokens nobody ever gets because, the light side always wins _#Rigged_. This will be available within the next week or two on the Telegram platform. Private conversations for Discord supporting this will come shortly after.
-
-Also somewhere down the yellow brick road is support for the following platforms:
+Somewhere down the yellow brick road is support for the following platforms:
 - Amazon Alexa (definitely)  
 - Google Assistant (definitely)  
 - Facebook Messenger (definitely, maybe)  
