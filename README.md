@@ -117,7 +117,7 @@ This feature is highly experimental. Use at own risk of insanity.
 _Set an alert for The Ebon Hawk_
 >You: Alert me when The Ebon Hawk is dark 4.
 
-This way you can now quickly jump on to get those Dark Side Tokens nobody ever gets because, the light side always wins _#Rigged_. Private conversations for Discord supporting this will be avilable shortly. This feature is only available on the Telegram platform today.
+This way you can now quickly jump on to get those Dark Side Tokens nobody ever gets because, the light side always wins _#Rigged_. 
 
 _Cancel the alert_
 >You: Cancel my alignment alerts
@@ -150,7 +150,7 @@ Worry not! You can message the bot directly `SWTOR-BOT#8698` at any time even if
 
 **Note**:
 - The bot will only process server/guild messages in which it has been @mentioned. All private messages are processed.
-- The bot does not support `conversation mode` in guild channels. This feature only works in private discussions.
+- Conversations in guild/servers are per-user, so you can have multiple conversations on-going within the same channel.
 
 ## What's next?
 
