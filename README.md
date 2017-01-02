@@ -18,24 +18,30 @@ The following open source projects were used in this project:
 - https://github.com/winstonjs/winston
 - https://github.com/request/request
 - http://momentjs.com/
-- https://github.com/mnort9/node-botmetrics
+- https://github.com/mnort9/node-botmetrics  
+- https://lodash.com/  
+- https://github.com/theoephraim/node-google-spreadsheet
+- https://mariadb.org/
 
 The bots are powered by the following open source projects:
 - Telegram: https://github.com/yagop/node-telegram-bot-api
 - Discord: https://discord.js.org
+- IRC: https://github.com/martynsmith/node-irc
 
 The data for the bot is provided by:
 - http://swtordata.com/
 - http://swtorcalendar.com/ (via Google Calendar API)
 - http://www.torstatus.net/
 - https://www.reddit.com/r/swtor/wiki/upcoming_events
+- https://docs.google.com/spreadsheets/d/1aI6kFuRlDxwjJXsq0HybhwdeluEm0JtxHZ20LdxVUsM/ (via Google Drive API)
 
-Database by https://firebase.google.com/  
+Database by ~~https://firebase.google.com/~~ _migrating to a local solution_.  
 Analytics by https://bot-metrics.com/  
 
 Special Thanks
 - [swtor conquest](https://www.reddit.com/user/swtor_conquest) for support on his incredible APIs.
 - Eymas & Hess for trying really hard to break the bot for testing purposes.
+- [Kaypin_Mayor](https://www.reddit.com/user/Kaypin_Mayor) for providing the Google spreadsheet used for daily operations and cxp bonus activity
 
 ## Official Discord Server for SwtorBot
 [Join](https://discord.gg/nNCPzj6) - I will provide support, update details and status changes here.
@@ -111,6 +117,34 @@ Bot: You will need: 2 Hemostatic Gel 1 Autoimmune Regulator 2 Anodyne Cell Graft
 >You: What's the vendor price for Outlander Boltblaster's Belt MK-6?  
 Bot: You should be able to sell Outlander Boltblaster's Belt MK-6 for 1,550 credits to a vendor.
 
+### Operations / Flashpoints
+_Data provided by [this Google sheet](http://bit.ly/2iFRXKs)_
+
+**Daily Group Finder Operation**  
+>You: What is today's operation?  
+Bot: The operation for Saturday, December 31, 2016 is Temple of Sacrifice.
+
+**Operation Guides** 
+>You: Can I get a guide for Eternity Vault operation?  
+Bot: You can find a guide for Eternity Vault at http://www.ign.com/wikis/star-wars-the-old-republic/Eternity_Vault
+
+**Flashpoint Guides**
+>You: Can I get a guide for the flaspoint KDY?  
+Bot: You can find a guide for Kuat Drive Yards at http://dulfy.net/2014/02/03/swtor-kuat-drive-yards-tactical-flashpoint-guide/
+
+Upcoming Feature (_not yet available_)
+- Group finder daily operation alerts ("Tell me when the group finder operation is Eternity Vault")
+
+### CXP Bonus 
+_Data is manually updated and provided by [this Google sheet](http://bit.ly/2iFRXKs). Information may be delayded._  
+
+**Daily CXP Bonus**
+>You: What is today's cxp bonus activity?  
+Bot: The command bonus activity for Saturday, December 31, 2016 is Chapters.
+
+Upcoming Feature (_not yet available_)
+- Daily CXP bonus subscription alerts ("Tell me when the CXP bonus activity is Warzones")
+
 ### Event Subscriptions (DvL Alignment)
 This feature is highly experimental. Use at own risk of insanity.  
 
@@ -154,24 +188,18 @@ Worry not! You can message the bot directly `SWTOR-BOT#8698` at any time even if
 
 ## What's next?
 
-Somewhere down the yellow brick road is support for the following platforms:
-- Amazon Alexa (definitely)  
+**Upcoming Platform support**
+- IRC (very soon)
+- Amazon Alexa (having issues, a bit delayed)  
 - Google Assistant (definitely)  
-- Facebook Messenger (definitely, maybe)  
-- Skype (likely)  
-- Twitter (shorta kindaish)  
-- Slack, so your co-workers know you have no life outside of work.
-- A mobile app that you can talk to awkwardly while waiting for your train. Yes, those people looking at you while you do it are judging you. 
+- Facebook Messenger (soonish)  
+- Skype (delayded)  
+- Twitter (soonish)  
+- ~~Slack~~ (canceled)  
+- A mobile app that you can talk to awkwardly while waiting for your train. Yes, those people looking at you while you do it are judging you. (summerish)
 - ~~Snapchat~~ this was a joke.
 
-The additional bots take maybe an hour to setup and configure but my main focus is now the pinky promises I am legally and morally bound to and cleaning up the existing code.
-
-**Additional future plans**:
->You: How many cartel coins is a scavenger pack?  
-Bot: Whatever the answer is because this isn't even close to being written.
-
->You: Alert me when the next Bounty Contract Week is.  
-Bot: Okay, I'll let you know when that begins next!
+## Help it grow!
 
 **Got a suggestion?**
 You can use GitHub issues here to leave suggestions for the bot. As Lil Wayne once said, the sky is the limit. I'm pretty sure someone else important said that first... but he said it too. Now that I think about that is pretty wrong since spac... not a good place for a debate.
