@@ -45,7 +45,8 @@ Special Thanks
 
 ## Official Links
 [Official Discord Server](https://discord.gg/nNCPzj6) - I will provide support, update details and status changes here.  
-[Official Changelog](http://changelog.swtorbot.xyz/) - Constantly updated with everything you need to know, and even things you don't!
+[Official Changelog](http://changelog.swtorbot.xyz/) - Constantly updated with everything you need to know, and even things you don't!  
+[Official Site](https://swtorbot.xyz/)
 
 ## Examples
 _All examples are from actual conversations with the bot. They are not simulated or theoretical mumbo jumbo to make it all shiny and pretty. Though some responses might vary due to improvements in wordiness and grammar are made._ 
@@ -202,7 +203,7 @@ Worry not! You can message the bot directly `SWTOR-BOT#8698` at any time even if
 
 ## Help it grow!
 
-**Got a suggestion?**
+**Got a suggestion?**  
 You can use GitHub issues here to leave suggestions for the bot. As Lil Wayne once said, the sky is the limit. I'm pretty sure someone else important said that first... but he said it too. Now that I think about that is pretty wrong since spac... not a good place for a debate.
 
 **Do you offer a SWTOR service?**  
@@ -225,7 +226,7 @@ All messages that you send to the bot are subject to a few things:
 ## Thanks & Support
 Thanks for reading this poorly written document which is really just me rambling on. If you decide to help in this inital public test, thanks I love you. In all seriousness it means a lot.
 
-I will be providing support here on GitHub (via issues) or via Reddit if I catch a message. I have no idea where I'll publish a changelog, I'll figure that out once I make changes worth noting.
+I will be providing support here on GitHub (via issues), Reddit if I catch a message and on the official Discord.
 
 ## Don't sue me
 This service is not endorsed by or affiliated with LucasArts, BioWare, or Electronic Arts.
