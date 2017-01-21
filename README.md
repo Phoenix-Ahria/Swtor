@@ -50,4 +50,4 @@ Special Thanks
 
 
 ## Legacy 
-This is not utterly useless. A manual is coming shortly. You'll love it better than double chocolate cake.. not quite as good as tripple though.
+This is now utterly useless. A manual is coming shortly. You'll love it better than double chocolate cake.. not quite as good as tripple though.
