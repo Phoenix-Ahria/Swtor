@@ -46,8 +46,5 @@ Special Thanks
 ## Official Links
 [Official Discord Server](https://discord.gg/nNCPzj6) - I will provide support, update details and status changes here.  
 [Official Changelog](http://changelog.swtorbot.xyz/) - Constantly updated with everything you need to know, and even things you don't!  
-[Official Site](https://swtorbot.xyz/)
-
-
-## Legacy 
-This is now utterly useless. A manual is coming shortly. You'll love it better than double chocolate cake.. not quite as good as tripple though.
+[Official Site](https://swtorbot.xyz/)  
+[Official Examples & HowTo](https://swtorbot.xyz/how-to/)
