@@ -1,0 +1,82 @@
+{
+	"Jedi Guardian": {
+		"Vigilance": "http://dulfy.net/2016/12/30/swtor-5-0-vigilance-guardian-pve-guide-by-rydarus/",
+		"Defense": "http://dulfy.net/2015/12/30/swtor-4-0-defense-guardian-pve-guide-by-artorias/",
+		"Focus": "http://dulfy.net/2015/12/10/swtor-4-0-focus-guardian-pve-guide-by-artorias/"
+	},
+	"Jedi Sentinel": {
+		"Watchman":"http://vulkk.com/2016/12/21/jedi-sentinel-watchman-discipline-swtor-5-0-class-guide/",
+		"Combat":"http://vulkk.com/2016/12/24/jedi-sentinel-combat-discipline-swtor-5-0-guide/",
+		"Concentration":"http://dulfy.net/2017/01/13/swtor-5-0-concentration-sentinel-pvp-guide-by-merovejec/"
+	},
+	"Sith Juggernaut": {
+		"Vengeance":"http://dulfy.net/2016/08/31/swtor-4-0-vengeance-juggernaut-pve-guide-by-roscoe/",
+		"Immortal": "http://dulfy.net/2015/10/29/swtor-4-0-immortal-juggernaut-pve-guide-by-artorias/",
+		"Rage": null
+	},
+	"Sith Marauder": {
+		"Annihilation":"http://vulkk.com/2016/12/22/sith-marauder-annihilation-discipline-swtor-5-0-guide/",
+		"Carnage":"http://vulkk.com/2016/12/24/sith-marauder-carnage-discipline-swtor-5-0-guide/",
+		"Fury": null
+	},
+	"Jedi Sage": {
+		"Seer":"http://dulfy.net/2016/12/28/swtor-5-0-seer-sage-pve-guide-by-dianiss/",
+		"Telekinetics": null,
+		"Balance": "http://dulfy.net/2015/11/12/swtor-4-0-balance-sage-pve-guide-by-splizza/"
+	},
+	"Jedi Shadow": {
+		"Infiltration":"http://dulfy.net/2017/01/15/swtor-5-0-infiltration-shadow-pvp-guide-by-krea/",
+		"Kinetic Combat": "http://dulfy.net/2016/01/11/swtor-4-0-kinetic-combat-pve-guide-by-aelanis/",
+		"Balance":"http://dulfy.net/2016/01/02/swtor-4-0-serenity-shadow-pvp-guide-by-krea/"
+	},
+	"Sorcerer": {
+		"Corruption":"http://dulfy.net/2016/12/26/swtor-5-0-corruption-sorcerer-pve-guide-by-seetsu/",
+		"Lightning":"http://dulfy.net/2016/12/26/swtor-5-0-lightning-sorcerer-pve-guide-by-sion/",
+		"Madness": "http://dulfy.net/2015/12/21/swtor-4-0-madness-sorcerer-pvp-guide-by-dacri/"
+	},
+	"Assassin": {
+		"Darkness":"http://dulfy.net/2017/01/04/swtor-5-0-darkness-assassin-pvp-guide-by-krea/",
+		"Deception":"http://dulfy.net/2017/01/17/swtor-5-0-deception-assassin-pve-guide-by-jaek/",
+		"Hatred": "http://dulfy.net/2016/12/12/swtor-5-0-hatred-assassin-pvp-guide-by-krea/"
+	},
+	"Scoundrel": {
+		"Sawbones":"http://dulfy.net/2016/12/27/swtor-5-0-scoundrel-sawbones-pvp-guide-by-hottie-and-doc/",
+		"Scrapper": null,
+		"Ruffian":"http://dulfy.net/2015/11/28/swtor-4-0-ruffian-scoundrel-guide-by-ironballs/"
+	},
+	"Gunslinger": {
+		"Saboteur":"http://dulfy.net/2015/11/16/swtor-4-0-saboteur-gunslinger-pve-guide-by-thrax/",
+		"Sharpshooter": null,
+		"Dirty Fighting": null
+	},
+	"Operative": {
+		"Concealment": null,
+		"Medicine":"http://dulfy.net/2016/12/11/swtor-5-0-medicine-operative-guide-by-hottie-and-doc/",
+		"Lethality": null
+	},
+	"Sniper": {
+		"Marksmanship":"http://dulfy.net/2016/12/29/swtor-5-0-marksmanship-sniper-pvp-guide-by-kitchen-sink/",
+		"Engineering": "http://dulfy.net/2015/11/16/swtor-4-0-engineering-sniper-guide-by-thrax/",
+		"Virulence":"http://dulfy.net/2016/12/24/swtor-5-0-virulence-sniper-pve-guide-by-veldix/"
+	},
+	"Commando": {
+		"Gunnery":"http://dulfy.net/2017/01/02/swtor-5-0-gunnery-commando-pve-guide-by-damian/",
+		"Combat Medic": null,
+		"Assault Specialist": null
+	},
+	"Vanguard": {
+		"Tactics":"http://dulfy.net/2017/01/02/swtor-5-0-tactics-vanguard-pve-guide-by-jaymis/",
+		"Shield Specialist":"http://dulfy.net/2017/01/18/swtor-5-0-shield-specialist-vanguard-pve-guide-by-yamunun/",
+		"Plasmatech": "http://dulfy.net/2017/01/18/swtor-5-0-plasmatech-vanguard-pve-guide-by-jaymis/"
+	},
+	"Mercenary": {
+		"Arsenal":"http://vulkk.com/2016/12/30/mercenary-arsenal-discipline-swtor-5-0-guide/",
+		"Bodyguard":"http://dulfy.net/2015/11/09/swtor-4-0-mercenary-pve-healing-guide-by-nenimel/",
+		"Innovative Ordnance":"http://dulfy.net/2015/12/02/swtor-4-0-mercenary-dps-pve-guide-by-marisi/"
+	},
+	"Powertech": {
+		"Shield Tech":"http://dulfy.net/2016/12/24/swtor-5-0-shield-tech-powertech-guide-by-yamunun/",
+		"Advanced Prototype":"http://dulfy.net/2016/12/22/swtor-5-0-advanced-prototype-powertech-pve-guide-by-jaymis/",
+		"Pyrotech":"http://dulfy.net/2016/12/20/swtor-5-0-pyrotech-powertech-pve-guide-by-jaymis/"
+	}
+}
