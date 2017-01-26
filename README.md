@@ -48,3 +48,7 @@ Special Thanks
 [Official Changelog](http://changelog.swtorbot.xyz/) - Constantly updated with everything you need to know, and even things you don't!  
 [Official Site](https://swtorbot.xyz/)  
 [Official Examples & HowTo](https://swtorbot.xyz/how-to/)
+
+## Contribute
+I have open sourced some of the local data sources the bot uses. Feel free to make a pull request to contribute. Or don't. I really don't care. Please list sources.
+
