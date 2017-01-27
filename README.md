@@ -52,3 +52,9 @@ Special Thanks
 ## Contribute
 I have open sourced some of the local data sources the bot uses. Feel free to make a pull request to contribute. Or don't. I really don't care. Please list sources.
 
+## Don't sue me
+This service is not endorsed by or affiliated with LucasArts, BioWare, or Electronic Arts.
+
+Trademarks are the property of their respective owners. LucasArts, the LucasArts logo, Star Wars and related properties are trademarks in the United States and/or in other countries of Lucasfilm Ltd. and/or its affiliates. © 2008-2011 Lucasfilm Entertainment Company Ltd. or Lucasfilm Ltd. All Rights Reserved. BioWare and the BioWare logo are trademarks or registered trademarks of EA International (Studio and Publishing) Ltd. You may not copy any images, videos or sound clips found on this site or ‘deep link’ to any image, video or sound clip directly.
+
+Game content and materials copyright LICENSOR. All Rights Reserved.
