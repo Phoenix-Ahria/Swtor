@@ -20,34 +20,45 @@ The following open source projects were used in this project:
 - http://momentjs.com/
 - https://github.com/mnort9/node-botmetrics  
 - https://lodash.com/  
-- https://github.com/theoephraim/node-google-spreadsheet
-- https://mariadb.org/
-
-The bots are powered by the following open source projects:
-- Telegram: https://github.com/yagop/node-telegram-bot-api
-- Discord: https://discord.js.org
-- IRC: https://github.com/martynsmith/node-irc
+- https://github.com/mysqljs/mysql
+- https://www.npmjs.com/package/uws
+- https://github.com/hammerandchisel/erlpack
+- https://github.com/yagop/node-telegram-bot-api
+- https://discord.js.org
+- https://github.com/martynsmith/node-irc
+- https://github.com/desmondmorris/node-twitter
+- https://github.com/sentientwaffle/feed-read
+- https://github.com/chriso/validator.js
+- http://expressjs.com/
+- https://www.npmjs.com/package/express-ipfilter
+- https://www.npmjs.com/package/express-rate-limit
+- https://github.com/expressjs/body-parser
+- https://github.com/omnidan/node-emoji
+- https://github.com/keymetrics/pmx
 
 The data for the bot is provided by:
 - http://swtordata.com/
 - http://swtorcalendar.com/ (via Google Calendar API)
 - http://www.torstatus.net/
 - https://www.reddit.com/r/swtor/wiki/upcoming_events
-- https://docs.google.com/spreadsheets/d/1aI6kFuRlDxwjJXsq0HybhwdeluEm0JtxHZ20LdxVUsM/ (via Google Drive API)
 
-Database by ~~https://firebase.google.com/~~ _migrating to a local solution_.  
-Analytics by https://bot-metrics.com/  
+Database powered by [MariaDB](https://mariadb.org/)  
+Analytics by [bot-metrics](https://bot-metrics.com/)  
+App Monitoring by [Keymetrics](https://keymetrics.io/)  
+Web services secured by [Cloudflare](https://www.cloudflare.com/)  
+Hosted on [Vultr](https://www.vultr.com/) and [OVH](https://www.ovh.com)
 
 Special Thanks
 - [swtor conquest](https://www.reddit.com/user/swtor_conquest) for support on his incredible APIs.
-- Eymas & Hess for trying really hard to break the bot for testing purposes.
-- [Kaypin_Mayor](https://www.reddit.com/user/Kaypin_Mayor) for providing the Google spreadsheet used for daily operations and cxp bonus activity
+- Eymas for trying really hard to break the bot for testing purposes.  
+- Hess for also trying really hard to break the bot, and design / graphic help.
+- [Kaypin_Mayor](https://www.reddit.com/user/Kaypin_Mayor) for providing the Google spreadsheet originally used for daily operations and cxp bonus activity
 
 ## Official Links
 [Official Discord Server](https://discord.gg/nNCPzj6) - I will provide support, update details and status changes here.  
 [Official Changelog](http://changelog.swtorbot.xyz/) - Constantly updated with everything you need to know, and even things you don't!  
 [Official Site](https://swtorbot.xyz/)  
-[Official Examples & HowTo](https://swtorbot.xyz/how-to/)
+[Official Examples & HowTo](https://swtorbot.xyz/how-to/) - Work in progress
 
 ## Contribute
 I have open sourced some of the local data sources the bot uses. Feel free to make a pull request to contribute. Or don't. I really don't care. Please list sources.
