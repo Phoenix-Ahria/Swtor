@@ -1,6 +1,7 @@
 ![fancy logo I stole from somewhere else](http://vignette3.wikia.nocookie.net/starwars/images/6/6d/SWTOR.jpg/revision/latest?cb=20081023010731)
 Star Wars: The Old Republic bot powered by AI.
 
+![Updated weekly](https://img.shields.io/badge/Discord-100-7289DA.png?colorA=7289DA&colorB=2C2F33&style=plastic) ![Updated weekly](https://img.shields.io/badge/Version-5.3-red.png?style=plastic) ![Updated weekly](https://img.shields.io/badge/Avg.%20daily%20messages-624-blue.png?style=plastic)
 ---
 The bot is backed by NLP, or Natural Language Processing, the same technology behind Apple's Siri, Amazon's Alexa, and Google's... well everything. The bot is able to understand contextual information and process the intent of your messages as well as keep a conversation for follow up information. 
 
